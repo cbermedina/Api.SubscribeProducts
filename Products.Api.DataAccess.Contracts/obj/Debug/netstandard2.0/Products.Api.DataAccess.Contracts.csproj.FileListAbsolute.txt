@@ -1,0 +1,6 @@
+Z:\GitHub\Api.SubscribeProducts\Products.Api.DataAccess.Contracts\bin\Debug\netstandard2.0\Products.Api.DataAccess.Contracts.deps.json
+Z:\GitHub\Api.SubscribeProducts\Products.Api.DataAccess.Contracts\bin\Debug\netstandard2.0\Products.Api.DataAccess.Contracts.dll
+Z:\GitHub\Api.SubscribeProducts\Products.Api.DataAccess.Contracts\obj\Debug\netstandard2.0\Products.Api.DataAccess.Contracts.csprojAssemblyReference.cache
+Z:\GitHub\Api.SubscribeProducts\Products.Api.DataAccess.Contracts\obj\Debug\netstandard2.0\Products.Api.DataAccess.Contracts.AssemblyInfoInputs.cache
+Z:\GitHub\Api.SubscribeProducts\Products.Api.DataAccess.Contracts\obj\Debug\netstandard2.0\Products.Api.DataAccess.Contracts.AssemblyInfo.cs
+Z:\GitHub\Api.SubscribeProducts\Products.Api.DataAccess.Contracts\obj\Debug\netstandard2.0\Products.Api.DataAccess.Contracts.csproj.CoreCompileInputs.cache

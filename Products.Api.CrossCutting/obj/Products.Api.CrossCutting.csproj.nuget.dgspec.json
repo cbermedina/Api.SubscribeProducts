@@ -1,0 +1,335 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.CrossCutting\\Products.Api.CrossCutting.csproj": {}
+  },
+  "projects": {
+    "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.Application\\Products.Api.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.Application\\Products.Api.Application.csproj",
+        "projectName": "Products.Api.Application",
+        "projectPath": "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.Application\\Products.Api.Application.csproj",
+        "packagesPath": "C:\\Users\\cupegui\\.nuget\\packages\\",
+        "outputPath": "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cupegui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.Common.CrossCutting\\Products.Api.Common.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.Common.CrossCutting\\Products.Api.Common.CrossCutting.csproj",
+        "projectName": "Products.Api.Common.CrossCutting",
+        "projectPath": "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.Common.CrossCutting\\Products.Api.Common.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\cupegui\\.nuget\\packages\\",
+        "outputPath": "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.Common.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cupegui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.CrossCutting\\Products.Api.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.CrossCutting\\Products.Api.CrossCutting.csproj",
+        "projectName": "Products.Api.CrossCutting",
+        "projectPath": "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.CrossCutting\\Products.Api.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\cupegui\\.nuget\\packages\\",
+        "outputPath": "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cupegui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.Application\\Products.Api.Application.csproj": {
+                "projectPath": "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.Application\\Products.Api.Application.csproj"
+              },
+              "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.DataAccess\\Products.Api.DataAccess.csproj": {
+                "projectPath": "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.DataAccess\\Products.Api.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.DataAccess.Contracts\\Products.Api.DataAccess.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.DataAccess.Contracts\\Products.Api.DataAccess.Contracts.csproj",
+        "projectName": "Products.Api.DataAccess.Contracts",
+        "projectPath": "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.DataAccess.Contracts\\Products.Api.DataAccess.Contracts.csproj",
+        "packagesPath": "C:\\Users\\cupegui\\.nuget\\packages\\",
+        "outputPath": "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.DataAccess.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cupegui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.Common.CrossCutting\\Products.Api.Common.CrossCutting.csproj": {
+                "projectPath": "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.Common.CrossCutting\\Products.Api.Common.CrossCutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.10.3, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.DataAccess\\Products.Api.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.DataAccess\\Products.Api.DataAccess.csproj",
+        "projectName": "Products.Api.DataAccess",
+        "projectPath": "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.DataAccess\\Products.Api.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\cupegui\\.nuget\\packages\\",
+        "outputPath": "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cupegui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.DataAccess.Contracts\\Products.Api.DataAccess.Contracts.csproj": {
+                "projectPath": "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.DataAccess.Contracts\\Products.Api.DataAccess.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

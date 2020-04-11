@@ -1,0 +1,9 @@
+Z:\GitHub\Api.SubscribeProducts\Products.Api.Business\bin\Debug\netstandard2.0\Products.Api.Business.deps.json
+Z:\GitHub\Api.SubscribeProducts\Products.Api.Business\bin\Debug\netstandard2.0\Products.Api.Business.dll
+Z:\GitHub\Api.SubscribeProducts\Products.Api.Business\bin\Debug\netstandard2.0\Products.Api.Business.pdb
+Z:\GitHub\Api.SubscribeProducts\Products.Api.Business\obj\Debug\netstandard2.0\Products.Api.Business.csprojAssemblyReference.cache
+Z:\GitHub\Api.SubscribeProducts\Products.Api.Business\obj\Debug\netstandard2.0\Products.Api.Business.csproj.CoreCompileInputs.cache
+Z:\GitHub\Api.SubscribeProducts\Products.Api.Business\obj\Debug\netstandard2.0\Products.Api.Business.AssemblyInfoInputs.cache
+Z:\GitHub\Api.SubscribeProducts\Products.Api.Business\obj\Debug\netstandard2.0\Products.Api.Business.AssemblyInfo.cs
+Z:\GitHub\Api.SubscribeProducts\Products.Api.Business\obj\Debug\netstandard2.0\Products.Api.Business.dll
+Z:\GitHub\Api.SubscribeProducts\Products.Api.Business\obj\Debug\netstandard2.0\Products.Api.Business.pdb

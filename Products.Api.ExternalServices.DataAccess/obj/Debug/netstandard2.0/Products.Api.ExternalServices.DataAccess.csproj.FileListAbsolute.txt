@@ -1,0 +1,9 @@
+Z:\GitHub\Api.SubscribeProducts\Products.Api.ExternalServices.DataAccess\bin\Debug\netstandard2.0\Products.Api.ExternalServices.DataAccess.deps.json
+Z:\GitHub\Api.SubscribeProducts\Products.Api.ExternalServices.DataAccess\bin\Debug\netstandard2.0\Products.Api.ExternalServices.DataAccess.dll
+Z:\GitHub\Api.SubscribeProducts\Products.Api.ExternalServices.DataAccess\bin\Debug\netstandard2.0\Products.Api.ExternalServices.DataAccess.pdb
+Z:\GitHub\Api.SubscribeProducts\Products.Api.ExternalServices.DataAccess\obj\Debug\netstandard2.0\Products.Api.ExternalServices.DataAccess.csprojAssemblyReference.cache
+Z:\GitHub\Api.SubscribeProducts\Products.Api.ExternalServices.DataAccess\obj\Debug\netstandard2.0\Products.Api.ExternalServices.DataAccess.csproj.CoreCompileInputs.cache
+Z:\GitHub\Api.SubscribeProducts\Products.Api.ExternalServices.DataAccess\obj\Debug\netstandard2.0\Products.Api.ExternalServices.DataAccess.AssemblyInfoInputs.cache
+Z:\GitHub\Api.SubscribeProducts\Products.Api.ExternalServices.DataAccess\obj\Debug\netstandard2.0\Products.Api.ExternalServices.DataAccess.AssemblyInfo.cs
+Z:\GitHub\Api.SubscribeProducts\Products.Api.ExternalServices.DataAccess\obj\Debug\netstandard2.0\Products.Api.ExternalServices.DataAccess.dll
+Z:\GitHub\Api.SubscribeProducts\Products.Api.ExternalServices.DataAccess\obj\Debug\netstandard2.0\Products.Api.ExternalServices.DataAccess.pdb

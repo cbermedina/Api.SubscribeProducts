@@ -1,0 +1,3 @@
+Z:\GitHub\Api.SubscribeProducts\Products.Api.Common.CrossCutting\obj\Debug\netstandard2.0\Products.Api.Common.CrossCutting.csproj.CoreCompileInputs.cache
+Z:\GitHub\Api.SubscribeProducts\Products.Api.Common.CrossCutting\obj\Debug\netstandard2.0\Products.Api.Common.CrossCutting.AssemblyInfoInputs.cache
+Z:\GitHub\Api.SubscribeProducts\Products.Api.Common.CrossCutting\obj\Debug\netstandard2.0\Products.Api.Common.CrossCutting.AssemblyInfo.cs

@@ -1,0 +1,9 @@
+Z:\GitHub\Api.SubscribeProducts\Products.Api.Cache.CrossCutting\bin\Debug\netstandard2.0\Products.Api.Cache.CrossCutting.deps.json
+Z:\GitHub\Api.SubscribeProducts\Products.Api.Cache.CrossCutting\bin\Debug\netstandard2.0\Products.Api.Cache.CrossCutting.dll
+Z:\GitHub\Api.SubscribeProducts\Products.Api.Cache.CrossCutting\bin\Debug\netstandard2.0\Products.Api.Cache.CrossCutting.pdb
+Z:\GitHub\Api.SubscribeProducts\Products.Api.Cache.CrossCutting\obj\Debug\netstandard2.0\Products.Api.Cache.CrossCutting.csprojAssemblyReference.cache
+Z:\GitHub\Api.SubscribeProducts\Products.Api.Cache.CrossCutting\obj\Debug\netstandard2.0\Products.Api.Cache.CrossCutting.csproj.CoreCompileInputs.cache
+Z:\GitHub\Api.SubscribeProducts\Products.Api.Cache.CrossCutting\obj\Debug\netstandard2.0\Products.Api.Cache.CrossCutting.AssemblyInfoInputs.cache
+Z:\GitHub\Api.SubscribeProducts\Products.Api.Cache.CrossCutting\obj\Debug\netstandard2.0\Products.Api.Cache.CrossCutting.AssemblyInfo.cs
+Z:\GitHub\Api.SubscribeProducts\Products.Api.Cache.CrossCutting\obj\Debug\netstandard2.0\Products.Api.Cache.CrossCutting.dll
+Z:\GitHub\Api.SubscribeProducts\Products.Api.Cache.CrossCutting\obj\Debug\netstandard2.0\Products.Api.Cache.CrossCutting.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2XrVsZZohbm/YBmjvD/DA4ZqV/PipWudBh72a3cLDwnQxxcVvCuTUVwumtrQKA0Jrt456Gczmpp6Ww9+YdLdZw==",
+  "success": true,
+  "projectFilePath": "Z:\\GitHub\\Api.SubscribeProducts\\Products.Api.Common.CrossCutting\\Products.Api.Common.CrossCutting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
